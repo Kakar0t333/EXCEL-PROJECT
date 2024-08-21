@@ -1,1 +1,1 @@
-# EXCEL-PROJECT
+This repository contains an interactive dashboard created in Excel that provides a comprehensive overview of road accident data. The dashboard is designed to visualize key statistics and trends, making it easier to analyze and understand the factors contributing to road accidents.
